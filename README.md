@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![AI](https://img.shields.io/badge/AI-Computer%20Vision-green)
+![Status](https://img.shields.io/badge/Status-Academic%20Project-yellow)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Deployment](https://img.shields.io/badge/Deployment-Cloud--Ready-orange)
+
+
 📚 InfraWatchX – Intelligent AI-Based Classroom Monitoring System
 
 An end-to-end AI system for automated attendance, student engagement analysis, and classroom safety monitoring using modular computer vision and cloud-ready architecture.
